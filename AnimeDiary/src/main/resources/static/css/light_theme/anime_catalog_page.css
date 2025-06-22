@@ -1,0 +1,59 @@
+.card-custom {
+    width: 250px;
+    height: 360px;
+    border: none;
+}
+
+.btn-learn-more {
+    width: 100%;
+    background-color: #ff6354;
+    color: white;
+    border-radius: 8px;
+    opacity: 0.7;
+}
+
+.btn-learn-more:hover {
+    background-color: #ff6354;
+    color: white;
+    opacity: 1;
+}
+
+.anime-name-text-custom {
+    color: white;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.5); /* Полупрозрачный черный фон */
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.image-poster-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.poster-container-custom {
+    width: 250px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.add-anime-btn-custom {
+    margin-top: 110px;
+    margin-bottom: 20px;
+}

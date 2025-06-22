@@ -1,0 +1,15 @@
+.container-custom {
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #142242;
+    background-color: #fff0de;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/736x/61/0e/68/610e68e3e1df49f4aa25f213d33371a1.jpg');
+    background-size: cover; /* Заполнение всего фона */
+    background-repeat: no-repeat;
+    background-position: top;
+}

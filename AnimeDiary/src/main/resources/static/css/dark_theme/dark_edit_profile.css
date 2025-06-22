@@ -1,0 +1,31 @@
+label {
+    color: #bfbfbf;
+}
+
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    background-color: #252526;
+}
+
+.container-avatar-custom {
+    margin-left: 50px;
+}
+
+.container-inputs-custom {
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.error-custom {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.error-text-custom {
+    color: #df1900;
+    font-size: 12px;
+    margin-top: 3px;
+    max-width: 210px;
+}

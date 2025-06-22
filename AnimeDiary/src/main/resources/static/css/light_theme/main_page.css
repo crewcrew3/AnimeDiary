@@ -1,0 +1,99 @@
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.container-subtitle-custom {
+    padding: 15px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.subtitle-custom {
+    color: #6a5481;
+    margin-bottom: 50px;
+}
+
+.title-custom {
+    color: #ff6354;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.carousel-container-custom {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.carousel-custom {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 100%;
+    height: 400px;
+    overflow: hidden; /* Скрыть переполнение */
+    border-radius: 8px;
+}
+
+.carousel-img-custom {
+    height: 400px;
+    object-fit: cover; /* Обеспечивает нормальное отображение изображения, заполняя контейнер */
+}
+
+.pic-container-custom {
+    width: 500px;
+    height: 256px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.pic-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.text-container-custom {
+    width: 900px;
+}
+
+.text-left-custom {
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+.text-right-custom {
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.paragraph-custom {
+    margin-bottom: 70px;
+}
+
+.bordered-paragraph-custom {
+    border-radius: 8px;
+    border: 1px solid #6a5481;
+    padding: 30px;
+}
+
+.bordered-text-custom {
+    font-size: 20px;
+    color: #6a5481;
+}
+
+.hr-custom {
+    color: #6a5481;
+}
+
+.bottom-pic-container-custom {
+    width: 900px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-top: 150px;
+}

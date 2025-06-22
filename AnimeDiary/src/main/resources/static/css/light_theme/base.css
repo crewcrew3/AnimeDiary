@@ -1,0 +1,119 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.btn-primary-custom {
+    border-radius: 8px;
+    background-color: #ff6354;
+    color: white;
+}
+
+.btn-primary-custom:hover {
+    background-color: #ff2b14;
+    color: white;
+}
+
+.btn-secondary-custom {
+    border-radius: 8px;
+    background-color: #84effb;
+    color: white;
+}
+
+.btn-secondary-custom:hover {
+    background-color: #2ae1f3;
+    color: white;
+}
+
+.btn-third-custom {
+    border-radius: 8px;
+    background-color: #555060;
+    color: white;
+}
+
+.btn-third-custom:hover {
+    background-color: #6a5481;
+    color: white;
+}
+
+.input-custom {
+    border-color: #bcbcbc;
+}
+
+.header-page-custom {
+   color: #142242;
+   margin-top: 100px;
+   margin-left: 50px;
+}
+
+.error-custom {
+    background-color: rgba(255, 146, 135, 0.5);
+    color: #750c00;
+    border-radius: 8px;
+    border-color: #750c00;
+    font-size: 18px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.content-custom {
+    margin-top: 100px;
+}
+
+.icon-rating-custom {
+    font-size: 2em;
+    font-family: "Exo 2", serif;
+    color: #ff9800;
+}
+
+.icon-delete-custom {
+    font-size: 24px;
+    font-family: "Exo 2", serif;
+    color: #d63802;
+}
+
+.message-empty-list-custom {
+    color: #bcbcbc;
+}
+
+.icon-send-custom {
+    color: #fff0de;
+}
+
+.image-avatar-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.img-container-custom {
+    width: 256px;
+    height: 256px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.notification-custom {
+    background-color: #ffffff;
+    color: #142242;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.notification-container-custom {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.active-custom {
+    background-color: #62ddec;
+    color: white;
+}
+
+.active-custom:hover {
+    background-color: #16e5ff;
+    color: white;
+}

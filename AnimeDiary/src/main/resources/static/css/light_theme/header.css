@@ -1,0 +1,32 @@
+.header-site-custom {
+    font-size: 32px;
+    color: #ff6354;
+}
+
+.header-site-custom:hover {
+    color: #ff2b14;
+}
+
+.nav-container-custom {
+    background-color: #ffedd5;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.nav-item-custom {
+    color: #343537;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.nav-item-custom:hover {
+    color: #255683;
+    cursor: pointer;
+}
+
+.nav-item-container-custom {
+    border-radius: 8px;
+}
+
+.csrf-token-block {
+    display:none;
+}

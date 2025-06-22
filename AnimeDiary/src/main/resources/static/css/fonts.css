@@ -1,0 +1,22 @@
+.reggae-one-regular {
+    font-family: "Reggae One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.neucha-regular {
+    font-family: "Neucha", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.exo-2-header {
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+body {
+    font-family: "Neucha", serif;
+}

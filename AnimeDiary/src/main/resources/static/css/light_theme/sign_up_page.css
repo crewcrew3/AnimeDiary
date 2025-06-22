@@ -1,0 +1,21 @@
+.form-check-custom:hover {
+    cursor:pointer;
+}
+
+.form-select-custom {
+    background-color: rgba(200, 224, 237, 0.5);
+}
+
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.error-text-custom {
+    color: #df1900;
+    font-size: 12px;
+    margin-top: 3px;
+    max-width: 210px;
+}

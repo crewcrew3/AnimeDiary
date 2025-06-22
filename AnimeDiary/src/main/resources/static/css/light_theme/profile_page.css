@@ -1,0 +1,47 @@
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+}
+
+.animes-custom {
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.card-profile-custom {
+    border: none;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.card-anime-review-custom {
+    border: none;
+    width: 100%;
+}
+
+.image-poster-custom {
+    width: 240px;
+    height: 336px;
+}
+
+.list-group-custom {
+    width: 20%;
+}
+
+.container-custom {
+    width: 100%;
+}
+
+.btn-custom {
+    font-size: 16px;
+    border-radius: 16px;
+    height: 50px;
+    width: 50px;
+    margin-top: 220px;
+    margin-left: 215px;
+}
+
+.icon-send-custom {
+    font-size: 20px;
+}

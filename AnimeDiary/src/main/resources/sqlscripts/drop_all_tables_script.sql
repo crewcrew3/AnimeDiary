@@ -1,0 +1,13 @@
+drop table user_anime_list_status;
+drop table comment_on_forum;
+drop table anime_reviews;
+drop table users_authorities;
+drop table "users";
+drop table authorities;
+drop table fact_studio_working_on_anime;
+drop table fact_anime_belongs_genre;
+drop table animes;
+drop table anime_studios;
+drop table anime_genres;
+drop table anime_types;
+drop table anime_statuses;

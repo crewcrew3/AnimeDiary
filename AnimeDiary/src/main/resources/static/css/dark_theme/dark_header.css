@@ -1,0 +1,36 @@
+.header-site-custom {
+    font-size: 32px;
+    color: #ff6354;
+}
+
+.header-site-custom:hover {
+    color: #ff2b14;
+}
+
+.nav-container-custom {
+    background-color: #252527;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.50);
+}
+
+.nav-item-container-custom {
+    border-radius: 8px;
+}
+
+.nav-item-container-custom:hover {
+    background-color: #444445;
+}
+
+.nav-item-custom {
+    color: #bfbfbf;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.nav-item-custom:hover {
+    color: #cacaca;
+    cursor: pointer;
+}
+
+.csrf-token-block {
+    display:none;
+}

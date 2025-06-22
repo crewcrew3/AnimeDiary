@@ -1,0 +1,19 @@
+.form-check-custom:hover {
+    cursor:pointer;
+}
+
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #252526;
+    color: #bfbfbf;
+}
+
+.error-text-custom {
+    color: #df1900;
+    font-size: 12px;
+    margin-top: 3px;
+    max-width: 210px;
+}

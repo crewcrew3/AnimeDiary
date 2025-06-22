@@ -1,0 +1,36 @@
+.form-container-custom {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.input-custom {
+    width: 50%;
+}
+
+.textarea-custom {
+    height: 200px;
+    border-radius: 8px;
+    border-color: #6ba1e3;
+}
+
+.textarea-custom:focus {
+    outline: none;
+}
+
+.btn-primary-custom {
+    width: 10%;
+}
+
+.anime-title-custom {
+    color: #142242;
+}
+
+.column-custom {
+    width: 50%;
+}
+
+.error-message-custom {
+    width: 20%;
+    height: 50%;
+}

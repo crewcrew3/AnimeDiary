@@ -1,0 +1,20 @@
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 30px;
+}
+
+.active-text {
+    color: green;
+}
+
+.blocked-text {
+    color: red;
+}
+
+.td-style {
+    padding: 8px 15px
+}

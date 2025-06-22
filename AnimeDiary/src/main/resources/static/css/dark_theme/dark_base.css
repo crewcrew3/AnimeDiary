@@ -1,0 +1,128 @@
+body {
+    background-color: #0a0a0a;
+    color: #bfbfbf;
+}
+
+.btn-primary-custom {
+    border-radius: 8px;
+    color: #bfbfbf;
+    border: 1px solid #444445;
+}
+
+.btn-primary-custom:hover {
+    background-color: #444445;
+    color: white;
+}
+
+.btn-secondary-custom {
+    border-radius: 8px;
+    color: #bfbfbf;
+    border: 1px solid #444445;
+}
+
+.btn-secondary-custom:hover {
+    background-color: #444445;
+    color: white;
+}
+
+.btn-third-custom {
+    border-radius: 8px;
+    background-color: #444445;
+    color: #bfbfbf;
+}
+
+.btn-third-custom:hover {
+    background-color: #444445;
+    color: white;
+}
+
+.input-custom {
+    border-color: #444445;
+    background-color: #6c6c70;
+    color: white;
+}
+
+.input-custom:focus {
+    border-color: #444445;
+    background-color: #8c8c93;
+    color: white;
+}
+
+.header-page-custom {
+   color: #bfbfbf;
+   margin-top: 100px;
+   margin-left: 50px;
+}
+
+.error-custom {
+    background-color: rgba(255, 146, 135, 0.5);
+    color: #750c00;
+    border-radius: 8px;
+    border-color: #750c00;
+    font-size: 18px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+.content-custom {
+    margin-top: 100px;
+}
+
+.icon-rating-custom {
+    font-size: 2em;
+    font-family: "Exo 2", serif;
+    color: #ff9800;
+}
+
+.icon-delete-custom {
+    font-size: 24px;
+    font-family: "Exo 2", serif;
+    color: #d63802;
+}
+
+.message-empty-list-custom {
+    color: #bfbfbf;
+}
+
+.icon-send-custom {
+    color: #bfbfbf;
+}
+
+.image-avatar-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.img-container-custom {
+    width: 256px;
+    height: 256px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.notification-custom {
+    background-color: #37373a;
+    color: #bfbfbf;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.50);
+}
+
+.notification-container-custom {
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.active-custom {
+    background-color: #b6b6b6;
+    color: #3e3e3e;
+}
+
+.active-custom:hover {
+    background-color: #b8b8b8;
+    color: #000000;
+}

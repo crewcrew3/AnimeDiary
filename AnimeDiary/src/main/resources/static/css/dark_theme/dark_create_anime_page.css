@@ -1,0 +1,49 @@
+.container-poster-custom {
+    width: 256px;
+    height: 384px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.image-poster-custom {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.container-poster-margin-custom {
+    margin-left: 50px;
+}
+
+.container-inputs-custom {
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 100%;
+}
+
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    background-color: #252526;
+    color: #bfbfbf;
+}
+
+.error-message-custom {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.textarea-custom {
+    height: 200px;
+    border-radius: 8px;
+    border-color: #444445;
+    background-color: #6c6c70;
+    color: white;
+}
+
+.textarea-custom:focus {
+    outline: none;
+}
+
+
+

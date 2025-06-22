@@ -1,0 +1,46 @@
+.card-poster-custom {
+    border: none;
+    width: 18rem;
+}
+
+.card-short-info-custom {
+    width: 18rem;
+    border-radius: 8px;
+    border: none;
+}
+
+.card-long-info-custom {
+    border-radius: 8px;
+    border: none;
+}
+
+.short-info-custom {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.long-info-custom {
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.anime-title-custom {
+    color: #142242;
+}
+
+.btn-inactive-custom {
+    border-radius: 8px;
+    background-color: #979090;
+    color: #323030;
+}
+
+.user-review-custom {
+    border-radius: 8px;
+    background-color: #fff0de;
+    color: #321f02;
+}
+
+.review-title-custom {
+    font-size: 16px;
+}

@@ -1,0 +1,17 @@
+.background-card-custom {
+    border: none;
+    border-radius: 8px;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: #252526;
+    color: #bfbfbf;
+}
+
+.studio-title-custom {
+    font-size: 24px;
+    color: #e69690;
+}
+
+.studio-subtitle-custom {
+    font-size: 18px;
+}

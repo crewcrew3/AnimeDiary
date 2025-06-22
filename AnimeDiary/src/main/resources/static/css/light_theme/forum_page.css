@@ -1,0 +1,45 @@
+.comment-custom {
+    height: 100px;
+    border-radius: 8px;
+    border-color: #6ba1e3;
+    width: 100%;
+}
+
+.comment-custom:focus {
+    outline: none;
+}
+
+.comment-group-custom {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+
+.background-custom {
+    background-color: #f1f1f1;
+}
+
+.btn-primary-custom {
+    font-size: 16px;
+    border-radius: 16px;
+    height: 50px;
+    width: 50px;
+}
+
+.comments-custom {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+.error-text-custom {
+    color: #df1900;
+    font-size: 18px;
+    margin-bottom: 3px;
+    max-width: 300px;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: rgba(117, 12, 0, 0.24);
+}
